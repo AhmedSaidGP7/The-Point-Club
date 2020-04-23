@@ -77,8 +77,7 @@ a:hover
 
 footer
 {
-  background: rgb(246,114,13);
-  background: linear-gradient(90deg, rgba(246,114,13,1) 0%, rgba(240,90,26,1) 55%, rgba(218,8,71,1) 100%);
+  background-image: url(../images/bg.jpg);
   min-height: 50px;
   width: 100%;
   margin-top: 50px;
@@ -97,6 +96,7 @@ footer .fab
 .mr-auto, .mx-auto {
     margin-left: auto!important;
     margin-right: 0px !important;
+    padding-right: 0;
 }
 
 
@@ -114,7 +114,10 @@ footer .fab
     left: 0;
     right: 0;
     z-index: 1030;
+
 }
+
+
 
 .navbar-light .navbar-nav .nav-link
 {
@@ -163,8 +166,8 @@ footer .fab
       -ms-flex-align: center;
       align-items: center;
       width: 100%;
-      background: rgb(246,114,13);
-      background: linear-gradient(90deg, rgba(246,114,13,1) 0%, rgba(240,90,26,1) 55%, rgba(218,8,71,1) 100%);
+      background: #b18534eb;
+
     }
 }
 

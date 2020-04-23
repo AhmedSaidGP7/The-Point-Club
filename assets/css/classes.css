@@ -34,13 +34,16 @@ h1,h2,h3,h4,h5,h6,p,a{
 .home-mainSection-content h3
 {
   margin-bottom: 55px;
-  font-size: 35px;
+  font-size: 65px;
+  margin-top: 50px;
+  font-family: century gothic;
+  font-weight: bold;
 }
 
 .home-mainSection-content h2
 {
-  font-size: 45px;
-  margin-bottom: 80px;
+  font-size: 26px;
+  margin-bottom: 68px;
 }
 
 .home-mainSection-buttons-center
@@ -56,7 +59,7 @@ h1,h2,h3,h4,h5,h6,p,a{
   font-size: 26px;
   color: white;
   padding: 20px;
-  border: 2px white solid;
+  border: 2px #ffcc8e solid;
   border-radius: 30px;
   transition: all 0.4s ease;
 
@@ -65,8 +68,10 @@ h1,h2,h3,h4,h5,h6,p,a{
 .home-mainLink:hover
 {
   text-decoration: none;
-  color: #f6720d;
-  background: white;
+  color: White;
+  background: #e49e49;
+  border: 2px #e49e49 solid;
+
   transition: all 0.4s ease;
 
 }
@@ -161,12 +166,12 @@ h1,h2,h3,h4,h5,h6,p,a{
 {
   font-weight: 600;
   font-family: 'Gotham Pro';
-  color: white;
+  color: #423f3f;
 }
 
 .home-graphic-design p
 {
-  color: white;
+  color: #423f3f;
   font-family: 'Gotham Pro';
   line-height: 2;
   max-width: 305px;
@@ -187,7 +192,7 @@ h1,h2,h3,h4,h5,h6,p,a{
 .home-main-content-section
 {
   width: 100%;
-    background-image: url(../images/bg2.png);
+    background:#f8f8f8;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -212,9 +217,10 @@ h1,h2,h3,h4,h5,h6,p,a{
 
 .home-speakers-section h2
 {
-  color: #c3083f;
+  color: #5c5d5e;
   margin-top: 25px;
   margin-bottom: 25px;
+  font-family: century gothic;
 }
 
 .speaker-img
@@ -223,7 +229,6 @@ h1,h2,h3,h4,h5,h6,p,a{
   display: table;
   margin: auto;
   margin-bottom: 25px;
-  border-radius: 50%;
 }
 .home-logo
 {
@@ -260,4 +265,9 @@ footer a:hover
 {
   font-family: 'Cairo', sans-serif;
 
+}
+.main-content-icons
+{
+  max-width: 150px;
+  margin-bottom: 10px;
 }
