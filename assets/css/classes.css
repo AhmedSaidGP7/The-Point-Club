@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6,p,a{
   font-size: 26px;
   color: white;
   padding: 20px;
-  border: 2px #ffcc8e solid;
+  border: 2px #e87892 solid;
   border-radius: 30px;
   transition: all 0.4s ease;
 
@@ -69,8 +69,8 @@ h1,h2,h3,h4,h5,h6,p,a{
 {
   text-decoration: none;
   color: White;
-  background: #e49e49;
-  border: 2px #e49e49 solid;
+  background: #e87892;
+  border: 2px #e87892 solid;
 
   transition: all 0.4s ease;
 
@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6,p,a{
 
 .home-underabout
 {
-  border-bottom: 4px #f5740f solid;
+  border-bottom: 4px #ea0e4f  solid;
   padding-bottom: 7px;
 }
 

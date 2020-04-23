@@ -129,7 +129,7 @@ footer .fab
 {
   text-align: center;
   color: white;
-  border-bottom: 4px #f5740f solid;
+  border-bottom: 4px #e87892  solid;
   padding-bottom: 5px;
   margin: 0;
   padding: 6px;
@@ -166,7 +166,7 @@ footer .fab
       -ms-flex-align: center;
       align-items: center;
       width: 100%;
-      background: #b18534eb;
+      background: #b13451f7;
 
     }
 }
